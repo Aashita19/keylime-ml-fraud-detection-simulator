@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore processed data outputs
+data/processed/
+
+# Ignore saved machine learning models / binaries
+models/saved/
