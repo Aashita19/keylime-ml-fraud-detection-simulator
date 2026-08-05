@@ -220,9 +220,9 @@ __marimo__/
 # Ignore processed data outputs
 data/processed/*
 
+# Keep placeholder files in data
 !data/raw/.gitkeep
 !data/processed/.gitkeep
-
 
 # Ignore saved machine learning models / binaries
 models/saved/
