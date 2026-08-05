@@ -1,0 +1,20 @@
+# Web framework + server
+fastapi>=0.110
+uvicorn[standard]>=0.29
+
+# Data validation (used by FastAPI request/response models)
+pydantic>=2.5
+
+# Database ORM (SQLite via database.py)
+SQLAlchemy>=2.0
+
+# Data handling
+pandas>=2.0
+
+# ML models 
+xgboost>=2.0
+lightgbm>=4.0
+scikit-learn>=1.3
+
+# SHAP explanations (used in PredictionService.compute_batch_shap)
+shap>=0.44
