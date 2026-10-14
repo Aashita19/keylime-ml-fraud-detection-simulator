@@ -4,7 +4,6 @@ An interactive simulator that streams synthetic credit card transactions through
 
 ![Demo](assets/demo.gif) 
 ![SelectorLightMode](assets/selector_lightMode.png) 
-![SelectorDarkMode](assets/selector_darkMode.png) 
 
 
 ## **Why I Built This**
