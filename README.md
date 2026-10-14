@@ -2,9 +2,9 @@
 
 An interactive simulator that streams synthetic credit card transactions through a live fraud-detection pipeline. Allows the user to pick XGBoost or LightGBM models and watch how each one performs. 
 
-[Demo](assets/demo.gif) 
-[SelectorLightMode](assets/selector_lightMode.png) 
-[SelectorDarkMode](assets/selector_darkMode.png) 
+![Demo](assets/demo.gif) 
+![SelectorLightMode](assets/selector_lightMode.png) 
+![SelectorDarkMode](assets/selector_darkMode.png) 
 
 
 ## **Why I Built This**
@@ -24,7 +24,7 @@ Dataset is from Kaggle: [https\://www\.kaggle.com/datasets/dhanushnarayananr/cre
 
 ## **How It Works**
 
-[Architecture](assets/architecture.png)   
+![Architecture](assets/architecture.png)   
 *Made on Canva*
 
 | Layer in the Paper | Industry Tool | This Simulation |
